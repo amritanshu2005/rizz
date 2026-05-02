@@ -1,0 +1,92 @@
+MOCK_RESPONSE:
+Oof, that made me smile — Them: Hey, up for drinks? When are we meeting?
+You’ve got my attention: Them: Hey, up for drinks? I like that.
+Okay I’m intrigued — Them: Hey, up for drinks? Tell me more over drinks?
+That was smooth. Them: Hey, up for drinks? You working on your charm or is it natural?
+Cute line. Them: Hey, up for drinks? I’m here for it.
+---
+MOCK_RESPONSE:
+Haha, good one — Them: You seem fun. 😂 Want to keep this roast battle going?
+You just earned bonus points: Them: You seem fun. — coffee to collect them?
+If laughs were currency, you just made me rich. Them: You seem fun. Maybe drinks?
+This made my day: Them: You seem fun. What other gems do you have?
+Stop being charming — I have plans but you might ruin them: Them: You seem fun.
+---
+MOCK_RESPONSE:
+Oof, that made me smile — Her: I love late night drives  
+You: Same, especially with good music  
+Her: What kind of music do you like?
+ When are we meeting?
+You’ve got my attention: Her: I love late night drives  
+You: Same, especially with good music  
+Her: What kind of music do you like?
+ I like that.
+Okay I’m intrigued — Her: I love late night drives  
+You: Same, especially with good music  
+Her: What kind of music do you like?
+ Tell me more over drinks?
+That was smooth. Her: I love late night drives  
+You: Same, especially with good music  
+Her: What kind of music do you like?
+ You working on your charm or is it natural?
+Cute line. Her: I love late night drives  
+You: Same, especially with good music  
+Her: What kind of music do you like?
+ I’m here for it.
+---
+MOCK_RESPONSE:
+Depends... are you always this smooth or is this a special occasion?
+You are making this way too easy to say yes to a date.
+I like your vibe. Keep going, I am listening.
+Bold. I like that. What is your next move?
+You have good energy. I would definitely match it in person.
+---
+MOCK_RESPONSE:
+Depends... are you always this smooth or is this a special occasion?
+You are making this way too easy to say yes to a date.
+I like your vibe. Keep going, I am listening.
+Bold. I like that. What is your next move?
+You have good energy. I would definitely match it in person.
+---
+MOCK_RESPONSE:
+If your playlist is that good, we might need to test it on a night drive.
+I am guessing you are the type to pretend not to sing, then steal the chorus.
+Now I need your top 3 songs so I can judge your passenger-seat energy.
+This is giving windows-down, city-lights, and a little trouble.
+You pick the route, I will bring elite song choices and questionable dance moves.
+---
+MOCK_RESPONSE:
+You are making this way too easy to say yes to a date.
+I like this energy. What is your next move?
+Smooth. Keep that same confidence in person.
+You are kinda fun. I am listening.
+I see the charm. Continue.
+---
+MOCK_RESPONSE:
+I am guessing you are the type to pretend not to sing, then steal the chorus?
+If your playlist is that good, we need to test it on a night drive.
+Top 3 songs so I can judge your passenger-seat vibe?
+This is giving windows-down and a little trouble.
+You handle the route, I'll bring the songs and chaotic energy.
+---
+MOCK_RESPONSE:
+That was smooth, but are you always this bold or is this special?
+Either you are charming or very committed to the bit.
+Okay, you got a real laugh out of me—what is round two?
+I respect this energy, cautiously.
+If this is your opener, I am curious.
+---
+MOCK_RESPONSE:
+Bet. What is your top 3 songs?
+Friday or Saturday night?
+You on music, me on route?
+Let us meet this week.
+Pick the day and song.
+---
+MOCK_RESPONSE:
+I am guessing you are the type to pretend not to sing, then steal the chorus?
+If your playlist is that good, we need to test it on a night drive.
+Top 3 songs so I can judge your passenger-seat vibe?
+This is giving windows-down and a little trouble.
+You handle the route, I'll bring the songs and chaotic energy.
+---

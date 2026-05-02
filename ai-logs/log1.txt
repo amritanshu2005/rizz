@@ -1,0 +1,8 @@
+PROMPT:
+Generate 5 short dating replies in Flirty tone based on this conversation: Them: Hey! How's your week going? You: Pretty good, staying busy. You?
+
+ITERATION 1:
+- Generated 5 variants; first pass was too generic.
+
+IMPROVEMENTS:
+- Made replies more playful and specific, added subtle call-to-action.

@@ -1,0 +1,7 @@
+PROMPT_OPENER:
+Generate 3 short openers in Funny style based on this bio: Coffee lover, weekend hiker, trivia nerd.
+
+RESPONSE:
+- Hey fellow hiker — what's the best trail you've done? Coffee after?
+- If trivia had Olympics, we'd win. What's your specialty?
+- Coffee + trails = perfect weekend. When are you free?

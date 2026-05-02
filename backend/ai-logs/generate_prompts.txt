@@ -1,0 +1,341 @@
+PROMPT:
+You are writing REAL, context-aware dating replies.
+
+GOAL:
+Each reply must directly respond to what the other person just said — not generic compliments.
+
+CRITICAL RULES:
+DO NOT repeat the conversation
+Keep replies short (1 line preferred)
+MUST reference the last message or key idea (e.g., "rare", "music", "drives")
+Avoid generic lines like: "I like your vibe", "You seem fun", "Keep going"
+Avoid safe compliments
+
+STYLE:
+React to specific words or meaning
+Add confidence, teasing, or intrigue
+Feel like a real continuation of the chat
+
+REPLY VARIETY:
+Generate 5 replies with different styles:
+1. Playful tease
+2. Confident line
+3. Curious question
+4. Slightly bold line
+5. Smooth/charming
+
+TONE:
+Funny -> witty
+Flirty -> teasing + charm
+Confident -> calm + strong
+Direct -> minimal + clear
+
+SELECTED TONE: Flirty
+
+OUTPUT:
+Only 5 replies, no labels, no numbering
+
+CONVERSATION:
+Her: I love late night drives and old songs. You: same, what kind of songs?
+---
+PROMPT:
+You are writing REAL, context-aware dating replies.
+
+GOAL:
+Each reply must directly respond to what the other person just said — not generic compliments.
+
+CRITICAL RULES:
+DO NOT repeat the conversation
+Keep replies short (1 line preferred)
+MUST reference the last message or key idea (e.g., "rare", "music", "drives")
+Avoid generic lines like: "I like your vibe", "You seem fun", "Keep going"
+Avoid safe compliments
+
+STYLE:
+React to specific words or meaning
+Add confidence, teasing, or intrigue
+Feel like a real continuation of the chat
+
+REPLY VARIETY:
+Generate 5 replies with different styles:
+1. Playful tease
+2. Confident line
+3. Curious question
+4. Slightly bold line
+5. Smooth/charming
+
+TONE:
+Funny -> witty
+Flirty -> teasing + charm
+Confident -> calm + strong
+Direct -> minimal + clear
+
+SELECTED TONE: Flirty
+
+OUTPUT:
+Only 5 replies, no labels, no numbering
+
+CONVERSATION:
+Her: You seem confident  
+You: I try  
+Her: That’s rare here
+---
+PROMPT:
+You are writing HIGH-QUALITY, context-aware dating replies.
+
+GOAL:
+Every reply must feel like a natural, specific response to what the other person JUST said.
+
+CRITICAL RULES:
+DO NOT repeat the conversation
+Keep replies short (1 line preferred)
+MUST directly react to the LAST message or key word (e.g., "rare")
+If the reply could fit any conversation, it is WRONG → rewrite it
+Avoid generic lines like:
+  "you seem fun"
+  "I like your vibe"
+  "keep going"
+  "you are interesting"
+
+STYLE:
+Use the meaning of the last message
+Add light teasing, confidence, or intrigue
+Make it feel like a real human response
+
+VARIETY REQUIREMENT:
+Generate 5 replies, each different:
+1. playful tease
+2. confident response
+3. curiosity-based
+4. slightly bold
+5. smooth/charming
+
+QUALITY FILTER (VERY IMPORTANT):
+Before output:
+Check each reply:
+  Would a real person actually send this?
+  Does it connect to the conversation?
+If not → improve it
+
+TONE:
+Funny → witty
+Flirty → teasing + charm
+Confident → calm + strong
+Direct → minimal + clear
+
+SELECTED TONE: Flirty
+
+OUTPUT:
+Only 5 replies, no labels, no numbering
+
+CONVERSATION:
+Her: I love late night drives and old songs. You: same, what kind of songs?
+---
+PROMPT:
+You are writing HIGH-QUALITY, context-aware dating replies.
+
+GOAL:
+Every reply must feel like a natural, specific response to what the other person JUST said.
+
+CRITICAL RULES:
+DO NOT repeat the conversation
+Keep replies short (1 line preferred)
+MUST directly react to the LAST message or key word (e.g., "rare")
+If the reply could fit any conversation, it is WRONG → rewrite it
+Avoid generic lines like:
+  "you seem fun"
+  "I like your vibe"
+  "keep going"
+  "you are interesting"
+
+STYLE:
+Use the meaning of the last message
+Add light teasing, confidence, or intrigue
+Make it feel like a real human response
+
+VARIETY REQUIREMENT:
+Generate 5 replies, each different:
+1. playful tease
+2. confident response
+3. curiosity-based
+4. slightly bold
+5. smooth/charming
+
+QUALITY FILTER (VERY IMPORTANT):
+Before output:
+Check each reply:
+  Would a real person actually send this?
+  Does it connect to the conversation?
+If not → improve it
+
+TONE:
+Funny → witty
+Flirty → teasing + charm
+Confident → calm + strong
+Direct → minimal + clear
+
+SELECTED TONE: Confident
+
+OUTPUT:
+Only 5 replies, no labels, no numbering
+
+CONVERSATION:
+Her: I am obsessed with 80s music. You: oh yeah?
+---
+PROMPT:
+You are writing HIGH-QUALITY, context-aware dating replies.
+
+GOAL:
+Every reply must feel like a natural, specific response to what the other person JUST said.
+
+CRITICAL RULES:
+DO NOT repeat the conversation
+Keep replies short (1 line preferred)
+MUST directly react to the LAST message or key word (e.g., "rare")
+If the reply could fit any conversation, it is WRONG → rewrite it
+Avoid generic lines like:
+  "you seem fun"
+  "I like your vibe"
+  "keep going"
+  "you are interesting"
+
+STYLE:
+Use the meaning of the last message
+Add light teasing, confidence, or intrigue
+Make it feel like a real human response
+
+VARIETY REQUIREMENT:
+Generate 5 replies, each different:
+1. playful tease
+2. confident response
+3. curiosity-based
+4. slightly bold
+5. smooth/charming
+
+QUALITY FILTER (VERY IMPORTANT):
+Before output:
+Check each reply:
+  Would a real person actually send this?
+  Does it connect to the conversation?
+If not → improve it
+
+TONE:
+Funny → witty
+Flirty → teasing + charm
+Confident → calm + strong
+Direct → minimal + clear
+
+SELECTED TONE: Direct
+
+OUTPUT:
+Only 5 replies, no labels, no numbering
+
+CONVERSATION:
+Her: I am a photographer. You: that sounds cool. Her: Yeah, I love capturing moments.
+---
+PROMPT:
+You are writing HIGH-QUALITY, context-aware dating replies.
+
+GOAL:
+Every reply must feel like a natural, specific response to what the other person JUST said.
+
+CRITICAL RULES:
+DO NOT repeat the conversation
+Keep replies short (1 line preferred)
+MUST directly react to the LAST message or key word (e.g., "rare")
+If the reply could fit any conversation, it is WRONG → rewrite it
+Avoid generic lines like:
+  "you seem fun"
+  "I like your vibe"
+  "keep going"
+  "you are interesting"
+
+STYLE:
+Use the meaning of the last message
+Add light teasing, confidence, or intrigue
+Make it feel like a real human response
+
+VARIETY REQUIREMENT:
+Generate 5 replies, each different:
+1. playful tease
+2. confident response
+3. curiosity-based
+4. slightly bold
+5. smooth/charming
+
+QUALITY FILTER (VERY IMPORTANT):
+Before output:
+Check each reply:
+  Would a real person actually send this?
+  Does it connect to the conversation?
+If not → improve it
+
+TONE:
+Funny → witty
+Flirty → teasing + charm
+Confident → calm + strong
+Direct → minimal + clear
+
+SELECTED TONE: Flirty
+
+OUTPUT:
+Only 5 replies, no labels, no numbering
+
+CONVERSATION:
+Want to meet this week?
+What day works?
+Coffee or drinks?
+Set a time.
+I am free this weekend.
+---
+PROMPT:
+You are writing HIGH-QUALITY, context-aware dating replies.
+
+GOAL:
+Every reply must feel like a natural, specific response to what the other person JUST said.
+
+CRITICAL RULES:
+DO NOT repeat the conversation
+Keep replies short (1 line preferred)
+MUST directly react to the LAST message or key word (e.g., "rare")
+If the reply could fit any conversation, it is WRONG → rewrite it
+Avoid generic lines like:
+  "you seem fun"
+  "I like your vibe"
+  "keep going"
+  "you are interesting"
+
+STYLE:
+Use the meaning of the last message
+Add light teasing, confidence, or intrigue
+Make it feel like a real human response
+
+VARIETY REQUIREMENT:
+Generate 5 replies, each different:
+1. playful tease
+2. confident response
+3. curiosity-based
+4. slightly bold
+5. smooth/charming
+
+QUALITY FILTER (VERY IMPORTANT):
+Before output:
+Check each reply:
+  Would a real person actually send this?
+  Does it connect to the conversation?
+If not → improve it
+
+TONE:
+Funny → witty
+Flirty → teasing + charm
+Confident → calm + strong
+Direct → minimal + clear
+
+SELECTED TONE: Funny
+
+OUTPUT:
+Only 5 replies, no labels, no numbering
+
+CONVERSATION:
+Her: I love hiking and strong coffee. You: same
+---
